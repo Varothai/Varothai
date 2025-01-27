@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Varothai Phodi! 👋
 
 # 💫 About Me:
-💻 Software Developer sharing about my journey and learnings in tech<br>
+💻 3rd year university student sharing about her journey and learnings in tech<br>
 📝 Currently studying Information Systems and Network Engineering at Chiangmai University<br>
  ✨ Passion about full stack development
 
