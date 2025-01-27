@@ -3,7 +3,7 @@
 # 💫 About Me:
 💻 3rd year university student sharing about her journey and learnings in tech<br>
 📝 Currently studying Information Systems and Network Engineering at Chiangmai University<br>
- ✨ Passion about full stack development
+ ✨ Passion about software development
 
 
 ## 🌐 Socials:
