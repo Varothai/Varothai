@@ -1,10 +1,8 @@
-## Hi, I'm Varothai Phodi! 👋
-
-💻 Software Developer sharing about my journey and learnings in tech<br/>
-📝 Currently studying Information Systems and Network Engineering at Chiangmai University<br/>
+# 👋 Hi, I'm Varothai Phodi! 👋
 
 # 💫 About Me:
-💻 Software Developer sharing about my journey and learnings in tech<br>📝 Currently studying Information Systems and Network Engineering at Chiangmai University
+💻 Software Developer sharing about my journey and learnings in tech<br>
+📝 Currently studying Information Systems and Network Engineering at Chiangmai University<br/>
 
 
 ## 🌐 Socials:
